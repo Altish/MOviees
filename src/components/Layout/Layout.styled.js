@@ -1,7 +1,7 @@
 import styled from "styled-components";
 import { NavLink } from "react-router-dom";
 import { BiCameraMovie } from "react-icons/bi";
-import react
+
   
 export const Header = styled.header`
   padding: 1.2rem 2.4rem;
